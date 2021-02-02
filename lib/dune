@@ -1,0 +1,14 @@
+(library
+  (name libra)
+  (libraries core))
+
+; "libra" is a generic name for
+; the executable the "lib"
+; directory compiles to.
+; Change it to whatever you so desire
+
+; Also I have deliberately
+; included Jane Street's "core" library.
+; If you are an OCaml programmer
+; and you are not using "core"
+; what are you doing with your life.

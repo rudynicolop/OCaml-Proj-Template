@@ -8,6 +8,9 @@
 *.cmxs
 *.cmxa
 
+# executable, change this to your name for your project
+libra
+
 # ocamlbuild working directory
 _build/
 
