@@ -12,11 +12,11 @@ make clean
 ```
 
 To run:
-```
+```bash
 make run
 ```
 
 Or:
-```
+```bash
 dune exec ./bin/main.exe
-``
+```
